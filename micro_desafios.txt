@@ -1,0 +1,4 @@
+* Micro Desafío 1:
+  - La llamada de la función 'test1(10,40)' devuelve 30.
+* Micro Desafío 2:
+  - La llamada de la función 'test2(10)' devuelve 20.
